@@ -2,6 +2,7 @@
 ## PROJECT 02: Run a Desgin Sprint
 
 FINAL REVIEW: [https://review.udacity.com/#!/reviews/3115035]
+FIGMA PROTOYPE: https://www.figma.com/file/F2oTOv9eB71a7y6cwVYV7m/GradLink?node-id=0%3A1&t=gUTyzCZ7DGFgFfhw-1 
 
 For this project, you will be running a Design Sprint to further develop a concept to address the opportunity that you identified in the previous course. There are six phases of the Design Sprint. For this project there will also be two additional steps-- one optional step for iterating based on findings from user testing and one to prepare your concept for handoff.
 
